@@ -1,0 +1,15 @@
+C:\Users\kangu\Desktop\Escola\DAS\Aula_3\bin\Debug\net7.0\Aula_3.exe
+C:\Users\kangu\Desktop\Escola\DAS\Aula_3\bin\Debug\net7.0\Aula_3.deps.json
+C:\Users\kangu\Desktop\Escola\DAS\Aula_3\bin\Debug\net7.0\Aula_3.runtimeconfig.json
+C:\Users\kangu\Desktop\Escola\DAS\Aula_3\bin\Debug\net7.0\Aula_3.dll
+C:\Users\kangu\Desktop\Escola\DAS\Aula_3\bin\Debug\net7.0\Aula_3.pdb
+C:\Users\kangu\Desktop\Escola\DAS\Aula_3\obj\Debug\net7.0\Aula_3.csproj.AssemblyReference.cache
+C:\Users\kangu\Desktop\Escola\DAS\Aula_3\obj\Debug\net7.0\Aula_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kangu\Desktop\Escola\DAS\Aula_3\obj\Debug\net7.0\Aula_3.AssemblyInfoInputs.cache
+C:\Users\kangu\Desktop\Escola\DAS\Aula_3\obj\Debug\net7.0\Aula_3.AssemblyInfo.cs
+C:\Users\kangu\Desktop\Escola\DAS\Aula_3\obj\Debug\net7.0\Aula_3.csproj.CoreCompileInputs.cache
+C:\Users\kangu\Desktop\Escola\DAS\Aula_3\obj\Debug\net7.0\Aula_3.dll
+C:\Users\kangu\Desktop\Escola\DAS\Aula_3\obj\Debug\net7.0\refint\Aula_3.dll
+C:\Users\kangu\Desktop\Escola\DAS\Aula_3\obj\Debug\net7.0\Aula_3.pdb
+C:\Users\kangu\Desktop\Escola\DAS\Aula_3\obj\Debug\net7.0\Aula_3.genruntimeconfig.cache
+C:\Users\kangu\Desktop\Escola\DAS\Aula_3\obj\Debug\net7.0\ref\Aula_3.dll
